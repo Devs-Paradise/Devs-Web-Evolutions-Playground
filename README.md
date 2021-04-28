@@ -1,6 +1,6 @@
 # Devs-Web-Evolutions-Playground
 <p align="center">
-  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/Web.png?raw=true" width="100%"/>
+  <img src="https://github.com/swapnilr17/swapnilr17/blob/master/images/web.png?raw=true" width="100%"/>
 </p>
 
 > This repository contains different Full Stack Web Development Projects.
